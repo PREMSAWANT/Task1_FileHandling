@@ -109,7 +109,8 @@ A file named todo.txt will be created in the working directory if it doesn't exi
 Follow the on-screen menu to interact.
 
 📦 Sample Output:
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a64d2fa7-d1a4-446e-aa26-27e864244b2d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/71a04e02-6b01-4f98-a2ba-cf912bdf82e1" />
 
 Example task view:
 
